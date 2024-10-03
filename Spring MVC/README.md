@@ -44,6 +44,7 @@ jsp
 </body>
 </html>
 <h3>Spring Configuration (application.properties):</h3>
+
 properties
 
 spring.mvc.view.prefix=/WEB-INF/views/
