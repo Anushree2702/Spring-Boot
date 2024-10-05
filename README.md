@@ -122,6 +122,7 @@ public class EmployeeRepository {
         // Logic to save employee
     }
 }
+
 <h4>Spring Configuration: You can use Java-based configuration to enable component scanning and register your beans:</h4>
 
 
