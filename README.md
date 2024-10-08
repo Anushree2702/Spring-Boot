@@ -1,5 +1,6 @@
 # Spring-Boot
 Spring Boot is an extension of the Spring Framework that simplifies the process of building production-ready, stand-alone applications in Java. It takes the complexity out of configuring a Spring application by providing sensible defaults and a wide range of pre-built configurations, allowing developers to focus on writing code instead of setting up the environment.
+
 <h4>
 Key Features of Spring Boot:
 </h4>
