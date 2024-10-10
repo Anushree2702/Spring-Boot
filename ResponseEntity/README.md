@@ -65,8 +65,13 @@ You can set custom headers using the HttpHeaders class:
 Java
 
 @GetMapping("/customHeader")
+
 public ResponseEntity<String> customHeader() {
+
     HttpHeaders headers = new HttpHeaders();
+    
     headers.add("Custom-Header", "foo");
+
+    
     return ResponseEntity.ok().headers(headers).body("Custom header set");
 }
